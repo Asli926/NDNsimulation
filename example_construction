@@ -1,0 +1,19 @@
+[Vertices]
+
+0 /edu.umich
+1 /edu.umich/ECE
+2 /edu.umich/ECE/1 text_umich_1
+3 /edu.umich/ECE/2 text_umich_2
+4 /edu.uchicago
+5 /edu.uchicago/ECE
+6 /edu.uchicago/ECE/1 text_uchicago_1
+
+
+[Edges]
+
+0 1
+1 2
+1 3
+0 4
+4 5
+5 6
